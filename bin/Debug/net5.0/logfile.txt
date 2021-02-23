@@ -1,0 +1,13 @@
+2021-02-23 01:06:31.0341|INFO|semv.Program|Server Mqtt connection
+2021-02-23 01:06:32.7542|INFO|semv.Program|[sender] => cd74f41e-6703-4d58-a712-9470952399ae
+2021-02-23 01:06:32.7554|INFO|semv.Program|Test Command
+2021-02-23 01:11:17.2313|INFO|semv.Program|Server Mqtt connection
+2021-02-23 01:11:19.4054|INFO|semv.Program|[command] => test [idRequerimiento] => b5e65b96-84c9-4d4b-a05d-574b5b7da474
+2021-02-23 01:11:19.4054|INFO|semv.Program|Test Command
+2021-02-23 01:17:33.9100|INFO|semv.Program|Server Mqtt connection
+2021-02-23 01:20:02.3770|INFO|semv.Program|Server Mqtt connection
+2021-02-23 01:20:04.1003|INFO|semv.Program|[RawMessage] => test
+2021-02-23 01:20:53.6785|INFO|semv.Program|Server Mqtt connection
+2021-02-23 01:20:54.9482|INFO|semv.Program|[RawMessage] => sergio;reboot
+2021-02-23 01:20:54.9482|INFO|semv.Program|[command] => reboot [idReq] => 9cfc1c96-2a1f-472a-b2a5-05dbaff12233 [sender] => sergio
+2021-02-23 01:20:54.9482|WARN|semv.Program|[i cannot reboot the machine]
